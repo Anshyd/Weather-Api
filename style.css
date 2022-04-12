@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cardID{
+    background-color:#92A8D1;
+}
+#body{
+    background-color:#92A8D1;
+}
